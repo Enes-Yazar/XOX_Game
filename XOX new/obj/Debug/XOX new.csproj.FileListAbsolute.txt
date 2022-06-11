@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX new.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX_new.Form1.resources
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX_new.Properties.Resources.resources
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX new.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX new.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XOX new\XOX new\bin\Debug\XOX new.exe.config
+C:\Users\Admin\source\repos\XOX new\XOX new\bin\Debug\XOX new.exe
+C:\Users\Admin\source\repos\XOX new\XOX new\bin\Debug\XOX new.pdb
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX new.exe
+C:\Users\Admin\source\repos\XOX new\XOX new\obj\Debug\XOX new.pdb
