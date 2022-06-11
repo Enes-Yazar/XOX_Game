@@ -1,4 +1,4 @@
-# XOX_Oyunu
+# XOX_Game
 
        X   O   X 
        O   X   O
